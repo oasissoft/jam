@@ -1,0 +1,32 @@
+{
+  "name": "@oasissoft/jam",
+  "version": "1.0.1",
+  "description": "Json array to map converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oasissoft/jam.git"
+  },
+  "keywords": [
+    "map",
+    "json",
+    "array",
+    "converter"
+  ],
+  "author": "Rasim SEN <rasimsen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oasissoft/jam/issues"
+  },
+  "homepage": "https://oasissofttech.com/jam",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
